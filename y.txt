@@ -1,0 +1,15 @@
+123: number
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ a : identifier
+,
+ b : identifier
+ relational operator == 
+5: number
+. 
+876: number
+;
+}

@@ -1,0 +1,32 @@
+Start inputing the identifiers
+
+Enter 0 to display
+
+
+
+group 10 
+
+group 2
+
+0
+
+
+
+
+
+info    id
+
+------------------------
+
+
+
+ 0  group
+
+ 1  1
+
+ 2  group
+
+ 3  2
+
+
+

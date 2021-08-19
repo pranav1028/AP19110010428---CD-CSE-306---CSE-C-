@@ -1,0 +1,64 @@
+0.INSERT ELEMENTS
+
+1.DISPLAY TABLE
+
+2.EXIT PROGRAM
+
+
+
+Enter your Option: 0
+
+Enter the Identifier:
+
+number
+
+Enter the info:
+
+int
+
+0.INSERT ELEMENTS
+
+1.DISPLAY TABLE
+
+2.EXIT PROGRAM
+
+
+
+Enter your Option: 0
+
+Enter the Identifier:
+
+alphabet
+
+Enter the info:
+
+char
+
+0.INSERT ELEMENTS
+
+1.DISPLAY TABLE
+
+2.EXIT PROGRAM
+
+
+
+Enter your Option: 1
+
+Id			Info
+
+number			int
+
+alphabet			char
+
+0.INSERT ELEMENTS
+
+1.DISPLAY TABLE
+
+2.EXIT PROGRAM
+
+
+
+Enter your Option: 2
+
+
+

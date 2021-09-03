@@ -1,0 +1,62 @@
+ 
+ include is an identifier 
+ 
+ < is a relational operator less than 
+ 
+ stdio is an identifier 
+ 
+ h is an identifier 
+ 
+ > is a relational operator greater than 
+ 
+ int is keyword 
+ 
+ main is keyword 
+ 
+ int is keyword 
+ 
+ number is an identifier 
+ 
+ = is assignment opertor 
+ 
+ 0 is an integer 
+ 
+ printf is an identifier 
+ 
+ Enter is an identifier 
+ 
+ a is an identifier 
+ 
+ number is an identifier 
+ 
+ scanf is an identifier 
+ 
+ d is an identifier 
+ 
+ number is an identifier 
+ 
+ if is an identifier 
+ 
+ number is an identifier 
+ 
+ 2 is an integer 
+ 
+ == is a relational operator equal to 
+ 
+ 0 is an integer 
+ 
+ printf is an identifier 
+ 
+ d is an identifier 
+ 
+ is is an identifier 
+ 
+ even is an identifier 
+ 
+ number is an identifier 
+ 
+ number is an identifier 
+ 
+ return is an identifier 
+ 
+ 0 is an integer 
